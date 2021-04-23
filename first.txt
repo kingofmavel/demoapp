@@ -1,2 +1,2 @@
 First git document
-second line
+second line 1
