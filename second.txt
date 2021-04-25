@@ -2,3 +2,4 @@ second file
 second line
 third line
 forth line
+fifth line
